@@ -1,1 +1,1 @@
-# AI-data-bootcamp
+# AI-Data-Bootcamp
