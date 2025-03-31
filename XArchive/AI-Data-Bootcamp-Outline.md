@@ -26,8 +26,9 @@ Lectures and hands-on labs. (50%, 50%)
 * A reasonably modern laptop or desktop
 * Unrestricted connection to the Internet. Laptops with overly restrictive VPNs or firewalls may not work properly
 * Chrome browser
-  - SSH client for your platform
   - RDP client for your platform
+  - SSH client for your platform
+  
   
 ## Program Rationale
 * Day 1: Laying the Foundation
